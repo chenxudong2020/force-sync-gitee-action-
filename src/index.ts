@@ -69,7 +69,7 @@ let browser: any;
     document.querySelector('#modal-sync-from-github > .actions > .ok')
   );
   confirm.click();
-  await sleep(20000)
+  await sleep(1500000)
   await debugScreenshot(page, 'step6.png');
 
   core.info('done!');
