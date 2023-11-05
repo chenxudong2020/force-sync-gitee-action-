@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Sync to Gitee
-      uses: pidanmeng/force-sync-gitee-action@master
+      uses: chenxudong2020/sync-gitee-action@v1.0.1
       with:
         # gitee账号
         username: ${{ secrets.GITEE_USERNAME }}
