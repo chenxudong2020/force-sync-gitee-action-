@@ -1,4 +1,4 @@
-name: 'Force sync gitee codebase'
+name: 'sync gitee codebase'
 description: '强制同步gitee仓库'
 runs:
   using: 'node16'
