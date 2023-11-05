@@ -1,5 +1,5 @@
 {
-  "name": "force-sync-gitee-action",
+  "name": "sync-gitee-action",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
